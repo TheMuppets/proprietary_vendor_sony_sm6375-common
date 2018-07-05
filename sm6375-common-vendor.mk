@@ -461,7 +461,6 @@ PRODUCT_PACKAGES += \
     libkeymasterprovision \
     libkeymasterutils \
     liblbs_core \
-    liblearningmodule \
     liblights-core \
     libloc_api_v02 \
     libloc_core \
@@ -472,7 +471,6 @@ PRODUCT_PACKAGES += \
     liblowi_client \
     liblqe \
     libmdmdetect \
-    libmeters \
     libminkdescriptor \
     libminksocket \
     libmiscta \
